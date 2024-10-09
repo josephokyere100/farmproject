@@ -35,7 +35,7 @@ const char* password = "awdrgy2k24";
 String serverPath;
 WebServer server(80);
 
-String serverName = "http://192.168.121.18/agric_project/farmproject/"; //update with correct IP address 
+String serverName = "http://192.168.121.18/agric_project/farmproject/AgricWebpage/"; //update with correct IP address 
 //String message = "Humidity Values: <br/>";
 //http://localhost/agric_project/agric_data.php?nodeID={nodeID}&temperature={temperature}&humidity={humidity}&moisture={moisture}
 //void doGETRequest(int nodevar);
